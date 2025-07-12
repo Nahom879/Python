@@ -15,3 +15,4 @@ while a == 0:
             return "Your number is too high"
         return None
     print(compare(guess, num))
+    break
